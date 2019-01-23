@@ -1,0 +1,8 @@
+Key Areas Covered
+
+1. Data extraction: Real-world datasets come in a variety of formats and standards. Through this exercise, the participant will gain knowledge on how to parse datasets, clean it and store it in an easily understandable and readable form for later use.
+2. Data visualization: Unfamiliar data comes with its unique challenges. One needs to carry out exploratory data analysis to better understand the data. Meaningful questions can be asked after one develops familiarization with the data. Data visualization greatly helps during this exploratory data analysis phase.
+3. Data Analysis and Machine learning: Once familiarity with the data are developed, we will move towards using statistical tools to analyze the data. The question to ask is which customers are more likely to respond to a bank’s marketing campaigns? The classification goal is to predict if the client will subscribe (yes/no) a term deposit (Variable y). Starting from reading the dataset to applying machine learning techniques to predict dependent variable requires having the understanding on Python Coding, applying right data science knowledge and understanding the context of the banking and marketing business.
+4. Model Evaluation and Conclusion: After training the models on data sets, we will examine the performance, in terms of ROC and provide business insights to conduct successful bank marketing campaigns.
+
+
